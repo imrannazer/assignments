@@ -1,0 +1,25 @@
+WARNING:root:Error type is : This is my custom exception
+ERROR:root:10
+INFO:root:There is a custom exception handling
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 2
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 1 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 2
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 1 in part parser)
+DEBUG:parso.python.diff:diff parser end
+WARNING:root:Exception occurred: Invalid Age
+INFO:root:Eligible to Vote
+INFO:root:Eligible to Vote
+INFO:root:2277
+WARNING:root:Exception occurred: Invalid Age
+WARNING:root:Exception occurred: Invalid Age
+INFO:root:Eligible to Vote
+INFO:root:Eligible to Vote
